@@ -1,0 +1,8 @@
+**/node_modules/**
+react/mocha/node_modules/\.bin/
+
+react/React16Esentials/cap2/snapterest/node_modules/
+
+react/React16Esentials/cap2/snapkite-engine
+*/node_modules/*
+youtube-list/\.env
