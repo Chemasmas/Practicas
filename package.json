@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "chemaslib": "file:C:\\Users\\eva_0\\Desktop\\practicas\\js\\chemaslib\\chemaslib.tar.gz"
   }
 }
